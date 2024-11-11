@@ -1,1 +1,1 @@
-# java-interview-no-input-starter-kit
+# java-interview-string-input-starter-kit
